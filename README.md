@@ -4,7 +4,7 @@
 
 This project demonstrates the classification of Iris flowers into three species—Setosa, Versicolor, and Virginica—using the Naive Bayes machine learning algorithm. The model predicts the species of an iris flower based on its sepal and petal measurements.
 
----
+--- 
 
 ## Dataset 
 
